@@ -26,5 +26,10 @@ namespace WindowsFormsApp17._02._2026
         {
             textBox1.Text = "Bye!";
         }
+
+        private void ChedyBtn(object sender, EventArgs e)
+        {
+            textBox1.Text = "Chedy";
+        }
     }
 }
